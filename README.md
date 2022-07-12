@@ -46,8 +46,9 @@ https://www.alsindibad.com/136387-Arduino.html
 
 
 3- نذهب مرة اخرى الى tools   ثم board ,  ونختار boards manager  ثم نكتب في خانة الـ type  
-esp324- 
-ستظهر لنا الاداة ونقوم بعمل  install 
+esp32 
+
+4- ستظهر لنا الاداة ونقوم بعمل  install 
 
 
 # مثال ( عملية البحث عنwifi )
