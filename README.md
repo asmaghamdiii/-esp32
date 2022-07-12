@@ -23,7 +23,8 @@
 لكي تكون الاداة مثبتة وجاهزة عن طريق :
 
 ملف التعريف ورابط تثبيت مكتبة esp32  :
-https://drive.google.com/file/d/1IQmN..
+
+https://drive.google.com/file/d/1IQmNKHLzTgl0ZZ_JNijEcCkhCLoP1lSM/view
 
 
 
